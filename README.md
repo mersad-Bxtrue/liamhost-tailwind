@@ -1,6 +1,6 @@
 ## Liamhost Frontend Task
 ---
-This is the front-end task of Liamhost company
+This is the front-end task of Liamhost company, which is fully responsive and user-friendly, made by Tilwindcss.
 
 ### ⚠️ Attention :
 I could not upload the project to the Netlify platform due to internet problems.
